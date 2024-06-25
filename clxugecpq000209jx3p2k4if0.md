@@ -169,7 +169,7 @@ The Command Line Interface (CLI) is a text-based interface used to interact with
 
 %[https://youtube.com/playlist?list=PLS1QulWo1RIb9WVQGJ_vh-RQusbZgO_As&si=dmXiu4iz-FF4xMrJ] 
 
-\*\*Documentation: - \*\*[\*\*\*\*\*\*Visit Link\*\*\*\*\*\*](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
+\*\*Documentation: - [\*\*\*\*\*\*Visit Link\*\*\*\*\*\*](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview)
 
 ---
 
